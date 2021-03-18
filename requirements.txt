@@ -1,0 +1,16 @@
+pillow
+numpy
+requests
+tqdm
+beautifulsoup4
+diffimg
+tensorflow-gpu==1.15
+matplotlib
+seaborn
+opencv-python
+keras
+flask
+setuptools
+six
+distance
+./attention_ocr/

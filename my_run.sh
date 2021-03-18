@@ -1,0 +1,1 @@
+aocr predict --model-dir ./checkpoint_mod_model --modcnn --dirpath $1 --out_file_name $2
